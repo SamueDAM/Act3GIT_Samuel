@@ -10,7 +10,7 @@ public class act3Espejo {
 
 	public static void mostrarNumerosAleatorios() {
 		   Random random = new Random();
-		   for (int i = 0; i < 20; i++) {
+		   for (int i = 0; i < 23; i++) {
 		   int numero = random.nextInt(10) + 1;
 		            System.out.println(numero);
 		        }
